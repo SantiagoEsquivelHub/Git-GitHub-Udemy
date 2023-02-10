@@ -1,0 +1,9 @@
+[submodule "10-legion-del-mal"]
+	path = 10-legion-del-mal
+	url = https://github.com/SantiagoEsquivelHub/10-legion-del-mal.git
+[submodule "11-avengers"]
+	path = 11-avengers
+	url = https://github.com/SantiagoEsquivelHub/11-avengers.git
+[submodule "09-heroes"]
+	path = 09-heroes
+	url = https://github.com/SantiagoEsquivelHub/09-heroes.git
